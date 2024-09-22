@@ -1,0 +1,66 @@
+[
+  {
+    "Bookid": "1",
+    "Bookname": "Shum bola",
+    "Bookjanr": "Realistik hikoya",
+    "Bookmualif": "G\u0027afur G\u0027ulom",
+    "Bookjamimiqdor": 10,
+    "Bookqollardagisoni": 1,
+    "KitobxonlarRoyxati": [
+      "nodir"
+    ],
+    "Bookoquvchilar": null
+  },
+  {
+    "Bookid": "2",
+    "Bookname": "Ikki eshik orasi",
+    "Bookjanr": "Roman",
+    "Bookmualif": "Abdulla Qodiriy",
+    "Bookjamimiqdor": 8,
+    "Bookqollardagisoni": 1,
+    "KitobxonlarRoyxati": [
+      "jaska"
+    ],
+    "Bookoquvchilar": null
+  },
+  {
+    "Bookid": "3",
+    "Bookname": "O\u0027tgan kunlar",
+    "Bookjanr": "Roman",
+    "Bookmualif": "Abdulla Qodiriy",
+    "Bookjamimiqdor": 15,
+    "Bookqollardagisoni": 2,
+    "KitobxonlarRoyxati": [
+      "nodir",
+      "jaska"
+    ],
+    "Bookoquvchilar": null
+  },
+  {
+    "Bookid": "4",
+    "Bookname": "Odamlar orasida",
+    "Bookjanr": "Hikoya",
+    "Bookmualif": "Abdulla Qahhor",
+    "Bookjamimiqdor": 12,
+    "Bookqollardagisoni": 1,
+    "KitobxonlarRoyxati": [
+      "jaska"
+    ],
+    "Bookoquvchilar": null
+  },
+  {
+    "Bookid": "5",
+    "Bookname": "Sariq devni minib",
+    "Bookjanr": "Bolalar adabiyoti",
+    "Bookmualif": "Xudoyberdi To\u0027xtaboyev",
+    "Bookjamimiqdor": 20,
+    "Bookqollardagisoni": 5,
+    "KitobxonlarRoyxati": [
+      "jaska",
+      "jaska",
+      "nodir",
+      "nodirbek"
+    ],
+    "Bookoquvchilar": null
+  }
+]

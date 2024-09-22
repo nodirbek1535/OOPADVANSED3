@@ -1,0 +1,31 @@
+[
+  {
+    "Ism": "jaska",
+    "Familya": "jaska",
+    "Yosh": 12,
+    "ID": "2287774058",
+    "Login": "jaska",
+    "Parol": "jaska",
+    "Oqiyotgankitoblar": [
+      "Ikki eshik orasi",
+      "Odamlar orasida",
+      "O\u0027tgan kunlar"
+    ],
+    "Oqibtugatgankitoblar": [
+      "Sariq devni minib",
+      "Sariq devni minib"
+    ]
+  },
+  {
+    "Ism": "nodirbek",
+    "Familya": "nasrullayev",
+    "Yosh": 19,
+    "ID": "4810980892",
+    "Login": "nodirbek",
+    "Parol": "no",
+    "Oqiyotgankitoblar": [],
+    "Oqibtugatgankitoblar": [
+      "Sariq devni minib"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+D:\VSCode (mohirdev)\OOPADVANSED3\bin\Debug\net8.0\OOPADVANSED3.exe
+D:\VSCode (mohirdev)\OOPADVANSED3\bin\Debug\net8.0\OOPADVANSED3.deps.json
+D:\VSCode (mohirdev)\OOPADVANSED3\bin\Debug\net8.0\OOPADVANSED3.runtimeconfig.json
+D:\VSCode (mohirdev)\OOPADVANSED3\bin\Debug\net8.0\OOPADVANSED3.dll
+D:\VSCode (mohirdev)\OOPADVANSED3\bin\Debug\net8.0\OOPADVANSED3.pdb
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\OOPADVANSED3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\OOPADVANSED3.AssemblyInfoInputs.cache
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\OOPADVANSED3.AssemblyInfo.cs
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\OOPADVANSED3.csproj.CoreCompileInputs.cache
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\OOPADVANSED3.dll
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\refint\OOPADVANSED3.dll
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\OOPADVANSED3.pdb
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\OOPADVANSED3.genruntimeconfig.cache
+D:\VSCode (mohirdev)\OOPADVANSED3\obj\Debug\net8.0\ref\OOPADVANSED3.dll
